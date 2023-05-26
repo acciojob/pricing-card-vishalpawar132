@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+
+.pricing-card {
+    width: 290px;
+	background-color: #f5f5f5;
+	padding: 20px;
+	text-align: center;
+    }
+
+.pricing-card button {
+      background-color: #e3364b;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 3px;
+      font-size: 16px;
+      cursor: pointer;
+    }
